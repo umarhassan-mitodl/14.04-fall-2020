@@ -13,7 +13,7 @@ Recitations: 1 session / week; 1 hour / session
 
 #### Prerequisites
 
-This is an intermediate course in microeconomic theory and its application to real-world phenomena and policy problems. The class assumes proficiency with economic theory at the level of {{% resource_link "e2d4b3cf-5811-43c5-b9af-975e6bf549bb" "*14.01* *Principles of Microeconomics*" %}} as well as {{% resource_link "4e765e19-9a89-453d-8912-b2f9bfdc328d" "multivariable calculus" %}}. It is also quite helpful if you have taken some {{% resource_link "e84739b2-31f7-4ea4-b0e3-986f1216dd47" "linear algebra" %}}, statistics, or econometrics and are somewhat familiar with basic notions of algorithms and computing, but for those who are not familiar with these additional tools, the teaching assistants will provide a primer or fill in gaps for this material.
+This is an intermediate course in microeconomic theory and its application to real-world phenomena and policy problems. The class assumes proficiency with economic theory at the level of [*14.01* *Principles of Microeconomics*](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/) as well as [multivariable calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/). It is also quite helpful if you have taken some [linear algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/), statistics, or econometrics and are somewhat familiar with basic notions of algorithms and computing, but for those who are not familiar with these additional tools, the teaching assistants will provide a primer or fill in gaps for this material.
 
 #### Overview
 
@@ -50,13 +50,13 @@ Here are the grading mechanics:
 
 I will assign five problem sets. Problem sets typically include a set of pure theory questions and a set of application questions, often based on readings. Late problem sets will not be accepted. No exceptions. 
 
-After the problem set has been graded and handed back, we are happy to go over solutions with you if they are still unclear. {{% resource_link "f02e5d1f-b67c-4c2b-bc33-67ee6b503bce" "Visit the Assignments section" %}} for more information. 
+After the problem set has been graded and handed back, we are happy to go over solutions with you if they are still unclear. [Visit the Assignments section](https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/assignments/) for more information. 
 
 #### Three Exams (60%)
 
 There will be two exams of 80 minutes in length. There will also be a final exam during the finals period. You will have 120 minutes to complete the final. 
 
-Performance on exams is highly correlated with performance on problem sets. If you miss an exam for an excused reason, I will offer a written makeup or an oral exam on a whiteboard online. Students typically find oral exams painful. But, I will not write a new exam for only a few students—so, an oral exam is likely. {{% resource_link "91d24e90-ab41-4446-b1e9-f87e1ee580ad" "Visit the exams section" %}} for more information.
+Performance on exams is highly correlated with performance on problem sets. If you miss an exam for an excused reason, I will offer a written makeup or an oral exam on a whiteboard online. Students typically find oral exams painful. But, I will not write a new exam for only a few students—so, an oral exam is likely. [Visit the exams section](https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/exams/) for more information.
 
 #### Class Participation (10%)
 

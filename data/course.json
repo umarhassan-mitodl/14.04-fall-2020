@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e54d6431-da96-7d07-3eed-55db807a076f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1ba9752f-5b57-4b7f-ac59-956a23c72750",
+    "website": "intermediate-microeconomic-theory"
+  },
+  "course_title": "Intermediate Microeconomic Theory ",
+  "hide_download": true,
+  "course_description": "This course provides an introduction to theory and data designed to meet the needs of students interested in economic science. It provides an introduction to consumer choice, the theory of the firm, and general equilibrium models, with an overview of the main results and tools used in studying these topics, both directly in economics and indirectly in various other fields.",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.04",
+  "course_image_thumbnail": {
+    "content": "14796eea-ff6c-4228-830f-b2671c31d147",
+    "website": "intermediate-microeconomic-theory"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Videos",
+    "Readings",
+    "Problem Sets"
+  ],
+  "site_uid": "627bf0af-c70d-4173-ab8c-33b6e2268999",
+  "site_short_id": "14.04-fall-2020",
+  "site_url_path": "courses/14-04-intermediate-microeconomic-theory-fall-2020"
+}
